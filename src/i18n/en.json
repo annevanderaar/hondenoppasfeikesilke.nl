@@ -9,7 +9,7 @@
     "label": "Main navigation",
     "services": "Services & Care",
     "approach": "Our approach",
-    "reviews": "Reviews (14)",
+    "reviews": "Reviews",
     "photos": "Photos & Atmosphere",
     "faq": "Frequently Asked Questions",
     "reservation": "Request a Reservation",
@@ -22,7 +22,7 @@
   "pages": {
     "services": "Services & Care",
     "approach": "Our Approach",
-    "reviews": "Reviews (14)",
+    "reviews": "Reviews",
     "photos": "Photos & Atmosphere",
     "faq": "Frequently Asked Questions",
     "reservation": "Request a Reservation"
