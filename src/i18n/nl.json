@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "brandDescription": "Huiselijke dierenopvang & uitlaatservice",
+    "call": "Bel ons",
+    "callUsAt": "Bel ons op",
+    "whatsapp": "WhatsApp ons",
+    "openMenu": "Menu openen",
+    "closeMenu": "Menu sluiten",
+    "label": "Hoofdnavigatie",
+    "services": "Diensten & Zorg",
+    "approach": "Onze aanpak",
+    "reviews": "Ervaringen (14 reviews)",
+    "photos": "Foto's & Sfeer",
+    "faq": "Veelgestelde vragen",
+    "reservation": "Reservering Aanvragen",
+    "language": "Taal",
+    "dutch": "Nederlands",
+    "english": "English",
+    "brandAria": "Hondenoppas Dokkum, naar boven"
+  },
+  "pages": {
+    "services": "Diensten & Zorg",
+    "approach": "Onze Aanpak",
+    "reviews": "Ervaringen (14 reviews)",
+    "photos": "Foto's & Sfeer",
+    "faq": "Veelgestelde vragen",
+    "reservation": "Reservering Aanvragen"
+  },
+  "home": {
+    "badge": "Vertrouwde dierenopvang in Dokkum",
+    "titleStart": "Een warme bank, knuffels en ",
+    "titleAccent": "alle aandacht",
+    "intro": "Geen kille kennels, maar een echt thuis in Dokkum. We verzorgen jouw hond of kat met persoonlijke liefde en aandacht — alsof het ons eigen dier is.",
+    "request": "Opvang aanvragen",
+    "askWhatsapp": "Stel een vraag via WhatsApp",
+    "location": "Actief in Dokkum · Kobbe (9101 ZL) · Persoonlijk contact",
+    "heroAlt": "Een vrolijke hond geniet van een wandeling",
+    "photoCaption": "Een vertrouwd plekje,",
+    "photoCaptionStrong": "helemaal op z’n gemak.",
+    "stars": "5 uit 5 sterren",
+    "quote": "“Je merkt aan alles dat ze met liefde voor de honden zorgen.”",
+    "reviewAuthor": "— Een tevreden baasje",
+    "trust": [
+      { "icon": "✓", "color": "bg-sage text-forest", "title": "Altijd persoonlijke aandacht", "text": "Rust, structuur en ruimte voor het eigen ritme van jouw dier." },
+      { "icon": "♡", "color": "bg-peach text-clay", "title": "Echt huiselijk", "text": "Een fijne plek in huis en tuin, met eigen kussen en vertrouwde spullen." },
+      { "icon": "↗", "color": "bg-sand text-muted", "title": "Je blijft op de hoogte", "text": "We delen met plezier foto’s en filmpjes via WhatsApp." }
+    ],
+    "sectionKicker": "ONZE ZORG",
+    "servicesTitle": "Fijn geregeld, met ",
+    "servicesAccent": "liefde verzorgd.",
+    "servicesIntro": "Van een dagje spelen tot een heerlijke vakantie: jouw dier is bij ons in goede handen.",
+    "services": [
+      { "category": "HONDENOPVANG", "title": "Honden-dagopvang", "description": "Lekker chillen, spelen en ontspannen wanneer jij aan het werk bent. Met fijne wandelingen, knuffels en een eigen rustplek.", "detail": "07:00–22:00", "meta": "Flexibele tijden", "alt": "Hond in een warme, huiselijke omgeving" },
+      { "category": "HONDENOPVANG", "title": "Honden-logeren", "description": "Een paar nachtjes of een complete vakantie logeren in huiselijke sfeer. Jouw hond draait gewoon mee met ons gezin.", "detail": "Inclusief nachttoezicht", "meta": "Huiselijk", "alt": "Hond wandelt buiten in het groen" },
+      { "category": "UITLAATSERVICE", "title": "Hondenuitlaatservice", "description": "Stevige en veilige wandelingen in en rondom Dokkum. Na afloop sturen we een foto of filmpje, zodat je ziet hoe het ging.", "detail": "Inclusief update", "meta": "Dokkum & regio", "alt": "Honden genieten samen van een wandeling" }
+    ],
+    "ctaKicker": "EVEN KENNISMAKEN?",
+    "ctaTitle": "Jouw dier verdient een plek waar het zich thuis voelt.",
+    "ctaText": "Vertel ons gerust wat je zoekt. We denken graag met je mee."
+  },
+  "footer": {
+    "description": "Liefdevolle honden- & kattenopvang in Dokkum",
+    "contact": "Contact & locatie",
+    "address": "Kobbe, 9101 ZL Dokkum",
+    "phone": "Bellen of WhatsApp",
+    "hoursTitle": "Openingstijden",
+    "hoursDays": "Maandag t/m zondag",
+    "hoursTime": "07:00–22:00",
+    "serviceAreaTitle": "Werkgebied",
+    "serviceArea": "Dokkum en omgeving",
+    "whatsapp": "WhatsApp ons",
+    "copyright": "© 2026 Hondenoppas Dokkum",
+    "madeBy": "Website gemaakt door"
+  }
+}

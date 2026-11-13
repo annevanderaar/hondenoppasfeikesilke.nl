@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "brandDescription": "Homely pet boarding & dog walking",
+    "call": "Call us",
+    "callUsAt": "Call us at",
+    "whatsapp": "WhatsApp us",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "label": "Main navigation",
+    "services": "Services & Care",
+    "approach": "Our approach",
+    "reviews": "Reviews (14)",
+    "photos": "Photos & Atmosphere",
+    "faq": "Frequently Asked Questions",
+    "reservation": "Request a Reservation",
+    "contact": "Contact",
+    "language": "Language",
+    "dutch": "Nederlands",
+    "english": "English",
+    "brandAria": "Hondenoppas Dokkum, back to top"
+  },
+  "pages": {
+    "services": "Services & Care",
+    "approach": "Our Approach",
+    "reviews": "Reviews (14)",
+    "photos": "Photos & Atmosphere",
+    "faq": "Frequently Asked Questions",
+    "reservation": "Request a Reservation"
+  },
+  "home": {
+    "badge": "Trusted pet care in Dokkum",
+    "titleStart": "A cosy sofa, cuddles and ",
+    "titleAccent": "all the attention",
+    "intro": "No cold kennels, but a real home in Dokkum. We care for your dog or cat with personal love and attention — just as if they were our own.",
+    "request": "Request pet care",
+    "askWhatsapp": "Ask us on WhatsApp",
+    "location": "Based in Dokkum · Kobbe (9101 ZL) · Personal service",
+    "heroAlt": "A happy dog enjoying a walk",
+    "photoCaption": "A familiar place,",
+    "photoCaptionStrong": "where they feel at ease.",
+    "stars": "5 out of 5 stars",
+    "quote": "“You can tell they care for the dogs with so much love.”",
+    "reviewAuthor": "— A happy pet owner",
+    "trust": [
+      { "icon": "✓", "color": "bg-sage text-forest", "title": "Personal care, always", "text": "A calm routine and room for your pet’s own rhythm." },
+      { "icon": "♡", "color": "bg-peach text-clay", "title": "A real home from home", "text": "A welcoming home and garden, with familiar beds and belongings." },
+      { "icon": "↗", "color": "bg-sand text-muted", "title": "Regular updates", "text": "We are happy to share photos and videos via WhatsApp." }
+    ],
+    "sectionKicker": "OUR CARE",
+    "servicesTitle": "Thoughtfully arranged, ",
+    "servicesAccent": "lovingly cared for.",
+    "servicesIntro": "From a day of play to a relaxing holiday, your pet is in caring hands with us.",
+    "services": [
+      { "category": "DOG CARE", "title": "Dog day care", "description": "Relax, play and unwind while you are at work. With lovely walks, plenty of cuddles and a place to call their own.", "detail": "07:00–22:00", "meta": "Flexible hours", "alt": "A dog in a warm, homely setting" },
+      { "category": "DOG CARE", "title": "Dog boarding", "description": "Stay for a few nights or a whole holiday in a homely setting. Your dog becomes part of our family.", "detail": "Overnight care included", "meta": "Homely setting", "alt": "A dog walking outdoors in the greenery" },
+      { "category": "DOG WALKING", "title": "Dog walking service", "description": "Safe, enjoyable walks in and around Dokkum. Afterwards, we will send a photo or video so you can see how it went.", "detail": "Update included", "meta": "Dokkum & nearby", "alt": "Dogs enjoying a walk together" }
+    ],
+    "ctaKicker": "LET’S MEET",
+    "ctaTitle": "Your pet deserves a place that feels like home.",
+    "ctaText": "Tell us what you are looking for. We would be happy to help."
+  },
+  "footer": {
+    "description": "Loving dog and cat care in Dokkum",
+    "contact": "Contact & location",
+    "address": "Kobbe, 9101 ZL Dokkum",
+    "phone": "Call or WhatsApp",
+    "hoursTitle": "Opening hours",
+    "hoursDays": "Monday to Sunday",
+    "hoursTime": "07:00–22:00",
+    "serviceAreaTitle": "Service area",
+    "serviceArea": "Dokkum and nearby areas",
+    "whatsapp": "WhatsApp us",
+    "copyright": "© 2026 Hondenoppas Dokkum",
+    "madeBy": "Website made by"
+  }
+}
