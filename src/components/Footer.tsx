@@ -39,6 +39,10 @@ export default function Footer() {
               <svg className="size-[17px] shrink-0 text-white" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.2 11.4 11.4 0 0 0 3.5.6 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17.9 17.9 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1 11.4 11.4 0 0 0 .6 3.5 1 1 0 0 1-.2 1Z" /></svg>
               <a className="text-white/85 no-underline hover:text-white" href={`tel:${phone}`}>{displayPhone}</a>
             </li>
+            <li className="flex items-start gap-3">
+              <svg className="mt-0.5 size-[17px] shrink-0 text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2" /><path d="m3 6 9 7 9-7" /></svg>
+              <a className="min-w-0 break-words text-white/85 no-underline [overflow-wrap:anywhere] hover:text-white hover:underline" href="mailto:hondenoppasfeikesilke@gmail.com">hondenoppasfeikesilke@gmail.com</a>
+            </li>
           </ul>
         </section>
 

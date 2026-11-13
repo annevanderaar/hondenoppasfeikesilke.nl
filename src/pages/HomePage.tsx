@@ -1,4 +1,8 @@
 import { useTranslation } from 'react-i18next'
+import heroPhoto from '../assets/photos/kleine-bruine-hond-in-fauteuil.jpg'
+import dayCarePhoto from '../assets/photos/zwarte-labrador-op-de-bank.jpg'
+import boardingPhoto from '../assets/photos/ruwharige-teckel-in-hondenmand.jpg'
+import walkingPhoto from '../assets/photos/twee-honden-samen-wandelen.jpg'
 
 const whatsapp = 'https://wa.me/31614314687'
 
@@ -9,9 +13,9 @@ export default function HomePage() {
   const trustPoints = t('home.trust', { returnObjects: true }) as { icon: string; color: string; title: string; text: string }[]
   const services = t('home.services', { returnObjects: true }) as { category: string; title: string; description: string; detail: string; meta: string; alt: string }[]
   const serviceImages = [
-    'https://images.unsplash.com/photo-1552053831-71594a27632d?auto=format&fit=crop&w=1000&q=85',
-    'https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=1000&q=85',
-    'https://images.unsplash.com/photo-1601758228041-f3b2795255f1?auto=format&fit=crop&w=1000&q=85',
+    { src: dayCarePhoto, position: 'object-[center_53%]' },
+    { src: boardingPhoto, position: 'object-[center_42%]' },
+    { src: walkingPhoto, position: 'object-[center_65%]' },
   ]
 
   return (
@@ -22,13 +26,13 @@ export default function HomePage() {
           <h1 className="mb-4 mt-[22px] font-serif text-[clamp(46px,13vw,66px)] font-semibold leading-[1.04] tracking-[-1.6px] text-ink sm:mb-5 sm:mt-[27px] sm:text-[clamp(48px,6.3vw,82px)] sm:tracking-[-1.8px]">{t('home.titleStart')}<em className="text-clay">{t('home.titleAccent')}</em>.</h1>
           <p className="max-w-[510px] text-[15px] leading-[1.7] text-muted sm:text-lg sm:leading-[1.75]">{t('home.intro')}</p>
           <div className="mt-6 grid gap-2.5 sm:mt-[30px] sm:flex sm:flex-wrap sm:gap-3">
-            <a className={`${buttonBase} bg-clay text-white`} href="#contact">{t('home.request')} <span className="text-xl" aria-hidden="true">↗</span></a>
+            <a className={`${buttonBase} bg-clay text-white`} href="/contact">{t('home.request')} <span className="text-xl" aria-hidden="true">↗</span></a>
             <a className={`${buttonBase} border border-line bg-white text-ink`} href={whatsapp}><span className="text-xl text-emerald-700" aria-hidden="true">◉</span>{t('home.askWhatsapp')}</a>
           </div>
           <div className="mt-[18px] flex items-center gap-2 text-[10px] font-medium leading-relaxed text-muted sm:mt-6 sm:text-xs"><span className="size-2 shrink-0 rounded-full bg-emerald-600" />{t('home.location')}</div>
         </div>
         <div className="relative mx-auto w-[calc(100%-14px)] max-w-[530px] rotate-[1.5deg] rounded-[48%_48%_24px_24px] border border-[#f0e8e1] bg-white p-2 shadow-[0_24px_70px_#3d291b19] lg:justify-self-end lg:rounded-[48%_48%_30px_30px] lg:p-3">
-          <img className="block h-[min(112vw,440px)] w-full rounded-[48%_48%_18px_18px] object-cover sm:h-[460px] lg:h-[540px] lg:rounded-[48%_48%_23px_23px] xl:h-[610px]" src="https://images.unsplash.com/photo-1551717743-49959800b1f6?auto=format&fit=crop&w=1200&q=85" alt={t('home.heroAlt')} />
+          <img className="block h-[min(112vw,440px)] w-full rounded-[48%_48%_18px_18px] object-cover object-[center_65%] sm:h-[460px] lg:h-[540px] lg:rounded-[48%_48%_23px_23px] xl:h-[610px]" src={heroPhoto} alt={t('home.heroAlt')} fetchPriority="high" />
           <div className="absolute bottom-[22px] left-[18px] flex flex-col rounded-[14px] bg-cream/95 px-3 py-2.5 text-xs text-ink shadow-md sm:bottom-[30px] sm:left-[29px] sm:px-[17px] sm:py-[13px]">{t('home.photoCaption')}<strong className="text-[13px] sm:text-[15px]">{t('home.photoCaptionStrong')}</strong></div>
           <div className="absolute right-[-10px] top-[34px] w-[174px] -rotate-[1.5deg] rounded-2xl border border-line bg-cream p-3.5 shadow-xl sm:right-[-12px] sm:top-[54px] sm:w-[195px] sm:p-[18px] lg:right-[-26px] lg:w-[220px]">
             <div className="text-sm tracking-[3px] text-amber-500 sm:text-[17px]" aria-label={t('home.stars')}>★★★★★</div>
@@ -52,7 +56,7 @@ export default function HomePage() {
         </div>
         <div className="mx-auto grid max-w-[1344px] gap-[15px] sm:grid-cols-2 sm:gap-[19px] lg:grid-cols-3">
           {services.map((service, index) => <article key={service.title} className="overflow-hidden rounded-[22px] border border-[#ece5df] bg-white shadow-sm">
-            <img className="block h-[220px] w-full object-cover sm:h-[225px]" src={serviceImages[index]} alt={service.alt} />
+            <img className={`block h-[220px] w-full object-cover sm:h-[225px] ${serviceImages[index].position}`} src={serviceImages[index].src} alt={service.alt} loading="lazy" decoding="async" />
             <div className="p-5 sm:px-[22px] sm:pb-[18px] sm:pt-[22px]">
               <p className="mb-2 text-[9px] font-bold tracking-[.12em] text-clay">{service.category}</p>
               <h3 className="mb-2.5 font-serif text-2xl font-semibold leading-tight text-ink">{service.title}</h3>

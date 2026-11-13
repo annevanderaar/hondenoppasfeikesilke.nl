@@ -23,7 +23,7 @@ export default function Navigation() {
     [t('nav.reviews'), '/ervaringen'],
     [t('nav.photos'), '/fotos-sfeer'],
     [t('nav.faq'), '/veelgestelde-vragen'],
-    [t('nav.reservation'), '/reserveren'],
+    [t('nav.contact'), '/contact'],
   ]
 
   const linkClass = (href: string) => `whitespace-nowrap border-b-2 px-1 py-2 text-[11px] font-semibold no-underline transition xl:text-xs ${currentPath === href ? 'border-clay text-clay' : 'border-transparent text-ink hover:border-clay hover:text-clay'}`
@@ -51,7 +51,7 @@ export default function Navigation() {
         <a className="flex min-w-0 items-center gap-2 text-ink no-underline sm:gap-3" href="/" aria-label={t('nav.brandAria')}>
           <img className="size-11 shrink-0 object-contain sm:size-[54px]" src="/feike-silke-logo.png" alt="" />
           <span className="flex min-w-0 flex-col gap-0.5">
-            <strong className="whitespace-nowrap font-serif text-base font-bold leading-tight tracking-tight sm:text-[21px]">Hondenoppas Dokkum</strong>
+            <strong className="whitespace-nowrap font-serif text-base font-bold leading-tight tracking-tight sm:text-[21px]">Hondenoppas Feike & Silke</strong>
             <small className="hidden whitespace-nowrap text-[10px] text-muted sm:block sm:text-[13px]">{t('nav.brandDescription')}</small>
           </span>
         </a>

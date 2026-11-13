@@ -5,7 +5,7 @@ import ApproachPage from './pages/ApproachPage'
 import FaqPage from './pages/FaqPage'
 import PhotosPage from './pages/PhotosPage'
 import HomePage from './pages/HomePage'
-import ReservationPage from './pages/ReservationPage'
+import ContactPage from './pages/ContactPage'
 import ReviewsPage from './pages/ReviewsPage'
 import ServicesPage from './pages/ServicesPage'
 
@@ -15,7 +15,8 @@ const pages: Record<string, ComponentType> = {
   '/ervaringen': ReviewsPage,
   '/fotos-sfeer': PhotosPage,
   '/veelgestelde-vragen': FaqPage,
-  '/reserveren': ReservationPage,
+  '/contact': ContactPage,
+  '/reserveren': ContactPage,
 }
 
 export default function App() {

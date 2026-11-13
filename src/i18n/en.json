@@ -12,7 +12,6 @@
     "reviews": "Reviews",
     "photos": "Photos & Atmosphere",
     "faq": "Frequently Asked Questions",
-    "reservation": "Request a Reservation",
     "contact": "Contact",
     "language": "Language",
     "dutch": "Nederlands",
@@ -25,39 +24,104 @@
     "reviews": "Reviews",
     "photos": "Photos & Atmosphere",
     "faq": "Frequently Asked Questions",
-    "reservation": "Request a Reservation"
+    "contact": "Contact"
   },
   "home": {
     "badge": "Trusted pet care in Dokkum",
     "titleStart": "A cosy sofa, cuddles and ",
     "titleAccent": "all the attention",
     "intro": "No cold kennels, but a real home in Dokkum. We care for your dog or cat with personal love and attention — just as if they were our own.",
-    "request": "Request pet care",
+    "request": "Get in touch",
     "askWhatsapp": "Ask us on WhatsApp",
     "location": "Based in Dokkum · Kobbe (9101 ZL) · Personal service",
-    "heroAlt": "A happy dog enjoying a walk",
+    "heroAlt": "A small brown dog relaxing in a soft armchair",
     "photoCaption": "A familiar place,",
     "photoCaptionStrong": "where they feel at ease.",
     "stars": "5 out of 5 stars",
-    "quote": "“You can tell they care for the dogs with so much love.”",
-    "reviewAuthor": "— A happy pet owner",
+    "quote": "“After each walk, they always send a video or photo to show how it went 👍🏻”",
+    "reviewAuthor": "— Adriaan R.",
     "trust": [
-      { "icon": "✓", "color": "bg-sage text-forest", "title": "Personal care, always", "text": "A calm routine and room for your pet’s own rhythm." },
-      { "icon": "♡", "color": "bg-peach text-clay", "title": "A real home from home", "text": "A welcoming home and garden, with familiar beds and belongings." },
-      { "icon": "↗", "color": "bg-sand text-muted", "title": "Regular updates", "text": "We are happy to share photos and videos via WhatsApp." }
+      {
+        "icon": "✓",
+        "color": "bg-sage text-forest",
+        "title": "Personal care, always",
+        "text": "A calm routine and room for your pet’s own rhythm."
+      },
+      {
+        "icon": "♡",
+        "color": "bg-peach text-clay",
+        "title": "A real home from home",
+        "text": "A welcoming home and garden, with familiar beds and belongings."
+      },
+      {
+        "icon": "↗",
+        "color": "bg-sand text-muted",
+        "title": "Regular updates",
+        "text": "We are happy to share photos and videos via WhatsApp."
+      }
     ],
     "sectionKicker": "OUR CARE",
     "servicesTitle": "Thoughtfully arranged, ",
     "servicesAccent": "lovingly cared for.",
     "servicesIntro": "From a day of play to a relaxing holiday, your pet is in caring hands with us.",
     "services": [
-      { "category": "DOG CARE", "title": "Dog day care", "description": "Relax, play and unwind while you are at work. With lovely walks, plenty of cuddles and a place to call their own.", "detail": "07:00–22:00", "meta": "Flexible hours", "alt": "A dog in a warm, homely setting" },
-      { "category": "DOG CARE", "title": "Dog boarding", "description": "Stay for a few nights or a whole holiday in a homely setting. Your dog becomes part of our family.", "detail": "Overnight care included", "meta": "Homely setting", "alt": "A dog walking outdoors in the greenery" },
-      { "category": "DOG WALKING", "title": "Dog walking service", "description": "Safe, enjoyable walks in and around Dokkum. Afterwards, we will send a photo or video so you can see how it went.", "detail": "Update included", "meta": "Dokkum & nearby", "alt": "Dogs enjoying a walk together" }
+      {
+        "category": "DOG CARE",
+        "title": "Dog day care",
+        "description": "Relax, play and unwind while you are at work. With lovely walks, plenty of cuddles and a place to call their own.",
+        "detail": "07:00–22:00",
+        "meta": "Flexible hours",
+        "alt": "A black Labrador relaxing on the sofa"
+      },
+      {
+        "category": "DOG CARE",
+        "title": "Dog boarding",
+        "description": "Stay for a few nights or a whole holiday in a homely setting. Your dog becomes part of our family.",
+        "detail": "Overnight care included",
+        "meta": "Homely setting",
+        "alt": "A wire-haired dachshund resting in a soft dog bed"
+      },
+      {
+        "category": "DOG WALKING",
+        "title": "Dog walking service",
+        "description": "Safe, enjoyable walks in and around Dokkum. Afterwards, we will send a photo or video so you can see how it went.",
+        "detail": "Update included",
+        "meta": "Dokkum & nearby",
+        "alt": "Two dogs walking together on leads"
+      }
     ],
     "ctaKicker": "LET’S MEET",
     "ctaTitle": "Your pet deserves a place that feels like home.",
     "ctaText": "Tell us what you are looking for. We would be happy to help."
+  },
+  "faq": {
+    "kicker": "GOOD TO KNOW",
+    "title": "Frequently asked questions about our pet care",
+    "intro": "Helpful answers about drop-off, pick-up, updates and your pet’s stay in Dokkum.",
+    "contactTitle": "Have another question?",
+    "contactText": "Feel free to send us a message. We would be happy to discuss the care your pet needs.",
+    "questions": [
+      {
+        "question": "How will we receive updates during our pet’s stay?",
+        "answer": "We send photos and videos via WhatsApp as standard. During day care, overnight stays and straight after a dog walk, you can see how your pet is doing."
+      },
+      {
+        "question": "What are the opening hours for drop-off and pick-up?",
+        "answer": "We are open Monday to Sunday from 07:00 to 22:00. We agree on flexible drop-off and pick-up times with you in advance."
+      },
+      {
+        "question": "Do the dogs stay in kennels or in your home?",
+        "answer": "Always in a homely setting. Our guests stay with us in our home and garden, with their own cushions, a bed and, if you wish, a cosy spot on the sofa for cuddles and rest."
+      },
+      {
+        "question": "Do you look after cats too?",
+        "answer": "Yes, we also offer cat sitting in your own home in Dokkum. We visit your cats to provide fresh food and water, clean the litter tray and, of course, spend time cuddling and playing."
+      },
+      {
+        "question": "Can we arrange a meeting beforehand?",
+        "answer": "Feel free to contact us to discuss an introductory meeting. This gives us time to get to know your pet, their routine and your wishes, and to discuss suitable care together."
+      }
+    ]
   },
   "footer": {
     "description": "Loving dog and cat care in Dokkum",
@@ -72,5 +136,267 @@
     "whatsapp": "WhatsApp us",
     "copyright": "© 2026 Hondenoppas Dokkum",
     "madeBy": "Website made by"
+  },
+  "photos": {
+    "kicker": "A GLIMPSE OF LIFE HERE",
+    "intro": "From a cosy spot on the sofa to a walk together. Discover the little moments that make a stay with us feel like home.",
+    "galleryLabel": "Photos of our guests",
+    "contactTitle": "A welcoming place for your pet too?",
+    "contactText": "Feel free to message us to get to know us or discuss the options.",
+    "items": [
+      {
+        "file": "kleine-bruine-hond-in-fauteuil",
+        "alt": "A cosy spot in the armchair"
+      },
+      {
+        "file": "twee-honden-samen-wandelen",
+        "alt": "Out for a walk together"
+      },
+      {
+        "file": "zwarte-labrador-op-de-bank",
+        "alt": "Relaxing on the sofa"
+      },
+      {
+        "file": "twee-katten-op-rode-deken",
+        "alt": "Snuggled together on a soft blanket"
+      },
+      {
+        "file": "bruine-puppy-op-de-bank",
+        "alt": "A quiet moment on the sofa"
+      },
+      {
+        "file": "grijze-krullenhond-in-het-gras",
+        "alt": "Enjoying the grass outdoors"
+      },
+      {
+        "file": "ruwharige-teckel-in-hondenmand",
+        "alt": "A soft bed to call their own"
+      },
+      {
+        "file": "witte-hond-op-het-terras",
+        "alt": "Enjoying a moment on the terrace"
+      },
+      {
+        "file": "blije-bruine-hond-op-de-bank",
+        "alt": "A happy face at home"
+      },
+      {
+        "file": "zwart-witte-hond-in-huis",
+        "alt": "A curious look around"
+      },
+      {
+        "file": "kleine-zwarte-hond-op-tuinbank",
+        "alt": "Getting comfy on the garden sofa"
+      },
+      {
+        "file": "kleine-hond-op-tuinkussen",
+        "alt": "Resting on a soft garden cushion"
+      },
+      {
+        "file": "zwarte-labrador-in-huis",
+        "alt": "A happy Labrador at home"
+      },
+      {
+        "file": "bruine-labrador-in-het-gras",
+        "alt": "Taking a break outdoors"
+      },
+      {
+        "file": "bruine-hond-met-zwart-tuig",
+        "alt": "Ready for the next walk"
+      },
+      {
+        "file": "grijs-witte-hond-in-de-tuin",
+        "alt": "Enjoying the garden together"
+      },
+      {
+        "file": "zwart-witte-hond-op-de-vloer",
+        "alt": "Feeling at home indoors"
+      },
+      {
+        "file": "kleine-zwart-witte-hond-op-stoel",
+        "alt": "A favourite spot on the chair"
+      },
+      {
+        "file": "puppy-met-rood-tuig-in-huis",
+        "alt": "A curious young guest"
+      },
+      {
+        "file": "lichte-labrador-op-het-terras",
+        "alt": "A quiet moment on the terrace"
+      },
+      {
+        "file": "bruine-teckel-op-de-bank",
+        "alt": "Joining us on the sofa"
+      },
+      {
+        "file": "bruin-witte-hond-in-huis",
+        "alt": "Personal attention at home"
+      },
+      {
+        "file": "zwarte-hond-met-witte-borst",
+        "alt": "A moment for the camera"
+      },
+      {
+        "file": "langharige-teckel-tijdens-wandeling",
+        "alt": "Exploring on a walk"
+      },
+      {
+        "file": "grote-bruine-hond-op-het-terras",
+        "alt": "A happy guest on the terrace"
+      },
+      {
+        "file": "zwarte-hond-bij-de-tuindeur",
+        "alt": "A happy greeting by the garden"
+      },
+      {
+        "file": "bruin-witte-hond-tijdens-wandeling",
+        "alt": "Getting some fresh air"
+      },
+      {
+        "file": "kleine-pluizige-hond-op-de-bank",
+        "alt": "Cosy and comfortable on the sofa"
+      },
+      {
+        "file": "witte-krullenhond-op-stoel",
+        "alt": "A soft spot to relax"
+      }
+    ]
+  },
+  "reviews": {
+    "kicker": "EXPERIENCES FROM PET OWNERS",
+    "title": "Peace of mind, built on your trust.",
+    "intro": "Finding a welcoming place for your pet starts with trust. Read what pet owners say about our care and dog walking service.",
+    "stars": "{{count}} out of 5 stars",
+    "count": "Based on {{count}} shared Google reviews",
+    "note": "Manually transcribed reviews, shown in their original Dutch. Some reviews are excerpts.",
+    "source": "Review via Google",
+    "excerpt": "Excerpt from a Google review",
+    "contactTitle": "Ready for peace of mind too?",
+    "contactText": "Get to know us. We would love to discuss the care your pet needs."
+  },
+  "approach": {
+    "title": "Why pet owners leave their companions with us in confidence.",
+    "intro": "We know how much your pet means to you. We care for every guest with respect for their individual personality, plenty of time to rest and personal communication.",
+    "promises": [
+      {
+        "title": "Photos and videos via WhatsApp",
+        "text": "Stay up to date with the fun and the quiet moments. We also send a photo or video after a walk, so you can see how it went."
+      },
+      {
+        "title": "A real home, with a cosy bed or sofa",
+        "text": "Our guests stay with us in our home and garden. A soft place to rest, warmth and companionship are all part of their stay."
+      },
+      {
+        "title": "Flexible hours, from 07:00 to 22:00",
+        "text": "We are open seven days a week. We agree on drop-off and pick-up times with you personally in advance."
+      }
+    ],
+    "sofaAlt": "A brown puppy relaxing on a blanket on the sofa",
+    "photoCaption": "A familiar place to feel at ease.",
+    "gardenAlt": "A small dog resting on a soft cushion on the garden sofa",
+    "rhythmKicker": "ROOM FOR THEIR OWN ROUTINE",
+    "rhythmTitle": "Time to play, walk and simply relax.",
+    "rhythmText": "Every pet is different. We offer a calm routine and warmth in a welcoming home. Between walks and playtime, there is time to relax on their own cushion, in a bed or in a cosy spot on the sofa.",
+    "photosLink": "See photos of our guests",
+    "stepsKicker": "PERSONAL FROM THE FIRST HELLO",
+    "stepsTitle": "A happy start, arranged together.",
+    "steps": [
+      {
+        "title": "Tell us about your pet",
+        "text": "Send us a message about what you need: day care, boarding, dog walking or cat sitting at home. Let us know the dates you have in mind too."
+      },
+      {
+        "title": "We discuss what suits them",
+        "text": "Together we discuss your pet’s routine and your wishes. Would you like to meet beforehand? Contact us to discuss the options."
+      },
+      {
+        "title": "Head out with peace of mind",
+        "text": "We agree on drop-off and pick-up times and keep you updated via WhatsApp. You can see how your pet is getting on with us."
+      }
+    ],
+    "contactTitle": "Shall we get to know each other?",
+    "contactText": "Tell us about your pet and what you are looking for. We would be happy to discuss a comfortable stay or a lovely walk."
+  },
+  "care": {
+    "title": "Care that suits your pet.",
+    "intro": "Day care, a place to stay during your holiday or a helping hand with walks? Discover how we can help you and your pet in Dokkum and the surrounding area.",
+    "chooseLabel": "Choose a service",
+    "services": [
+      {
+        "id": "dagopvang",
+        "category": "SPENDING THE DAY WITH US",
+        "title": "Dog day care",
+        "description": "A welcoming place for your dog while you work or spend a day away. Your dog joins us at home, with time to play, walk and rest.",
+        "features": [
+          "Homely care with a cosy place to rest",
+          "Drop-off and pick-up by arrangement between 07:00 and 22:00",
+          "Photos and videos via WhatsApp"
+        ],
+        "alt": "A black Labrador relaxing on the sofa",
+        "action": "Ask about day care",
+        "message": "Hello! I am interested in day care for my dog. Could we discuss the options?"
+      },
+      {
+        "id": "logeren",
+        "category": "FOR A NIGHT OR LONGER",
+        "title": "Dog boarding",
+        "description": "Heading away for a few nights or a holiday? Your dog stays in our home and joins family life, with a soft place to sleep and personal attention.",
+        "features": [
+          "Overnight stays in a homely setting",
+          "Overnight supervision included",
+          "WhatsApp updates during their stay"
+        ],
+        "alt": "A wire-haired dachshund resting in a soft dog bed",
+        "action": "Ask about boarding",
+        "message": "Hello! I am looking for a place for my dog to stay. Could we discuss the options and dates?"
+      },
+      {
+        "id": "uitlaten",
+        "category": "HEADING OUT TOGETHER",
+        "title": "Dog walking service",
+        "description": "Unable to take your dog out yourself? We take them for an enjoyable walk in and around Dokkum. We discuss your dog’s needs with you beforehand.",
+        "features": [
+          "Walks in Dokkum and the surrounding area",
+          "Personal arrangements for your dog and the schedule",
+          "A photo or video via WhatsApp afterwards"
+        ],
+        "alt": "Two dogs walking together on leads along a sunny road",
+        "action": "Discuss a dog walk",
+        "message": "Hello! I am interested in your dog walking service. Could we discuss the options for my dog?"
+      },
+      {
+        "id": "kattenoppas",
+        "category": "IN THEIR OWN FAMILIAR HOME",
+        "title": "Cat sitting at home",
+        "description": "Your cat stays in their familiar surroundings while you are away. We visit your home in Dokkum to provide daily care, attention and companionship.",
+        "features": [
+          "Fresh food and clean drinking water",
+          "Litter tray care",
+          "Time for play, cuddles and updates"
+        ],
+        "alt": "Two cats snuggled together on a soft red blanket",
+        "action": "Discuss cat sitting",
+        "message": "Hello! I am looking for cat sitting at home in Dokkum. Could we discuss the care and dates?"
+      }
+    ],
+    "helpTitle": "What suits your pet?",
+    "helpText": "We discuss times, availability and rates with you personally. Tell us what care you need and the dates you have in mind. To learn more about daily care and getting to know us, explore our approach.",
+    "approachLink": "Explore our approach",
+    "questionsText": "Practical questions about our care? Read our"
+  },
+  "contact": {
+    "title": "Get in touch.",
+    "intro": "A question about pet care, a walk or a place to stay? Email, call or send us a WhatsApp message. We would be happy to discuss what suits your pet.",
+    "optionsLabel": "Ways to contact us",
+    "emailTitle": "Email us",
+    "emailText": "Tell us about your pet, the service you need and the dates you have in mind. Click the email address to send us an email.",
+    "callTitle": "Call us",
+    "callText": "Prefer to talk? Give us a call to discuss your questions and wishes.",
+    "whatsappText": "Send us a message to discuss the options for pet care or a dog walk.",
+    "whatsappAction": "Open WhatsApp",
+    "detailsTitle": "Contact & location",
+    "area": "Pet care and dog walking in Dokkum and the surrounding area.",
+    "appointment": "We arrange drop-off, pick-up and introductory meetings with you personally in advance.",
+    "questionsText": "Want to know more? Read our"
   }
 }
