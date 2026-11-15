@@ -35,7 +35,7 @@ export default function ContactPage() {
 
       <section className="flex flex-col gap-8 rounded-3xl bg-peach p-6 sm:p-10 md:flex-row md:gap-12">
         <div className="min-w-0 flex-1"><h2 className="font-serif text-2xl font-semibold text-forest">{t('contact.detailsTitle')}</h2><p className="mt-4 text-base leading-relaxed text-ink">{t('footer.address')}</p><p className="mt-2 text-base leading-relaxed text-muted">{t('contact.area')}</p></div>
-        <div className="min-w-0 flex-1"><h2 className="font-serif text-2xl font-semibold text-forest">{t('footer.hoursTitle')}</h2><p className="mt-4 text-base leading-relaxed text-ink">{t('footer.hoursDays')} · {t('footer.hoursTime')}</p><p className="mt-2 text-base leading-relaxed text-muted">{t('contact.appointment')}</p></div>
+        <div className="min-w-0 flex-1"><h2 className="font-serif text-2xl font-semibold text-forest">{t('contact.hoursTitle')}</h2><p className="mt-4 text-base leading-relaxed text-ink">{t('contact.hours')}</p><p className="mt-2 text-base leading-relaxed text-muted">{t('contact.appointment')}</p></div>
       </section>
       <p className="mt-7 text-center text-sm leading-relaxed text-muted">{t('contact.questionsText')} <a className="font-semibold text-clay underline underline-offset-4" href="/veelgestelde-vragen">{t('pages.faq')}</a></p>
     </main>

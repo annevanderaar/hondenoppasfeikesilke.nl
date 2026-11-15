@@ -13,7 +13,7 @@ const photos = [
 
 export default function ServicesPage() {
   const { t } = useTranslation()
-  const services = t('care.services', { returnObjects: true }) as { id: string; title: string; category: string; description: string; features: string[]; alt: string; action: string; message: string }[]
+  const services = t('care.services', { returnObjects: true }) as { id: string; title: string; category: string; description: string; features: string[]; closing?: string; alt: string; action: string; message: string }[]
 
   return (
     <main className="mx-auto max-w-[1440px] px-5 py-12 sm:px-8 sm:py-16 xl:px-12 xl:py-20">
@@ -37,6 +37,7 @@ export default function ServicesPage() {
               <ul className="my-6 space-y-3">
                 {service.features.map(feature => <li key={feature} className="flex items-start gap-3 text-sm leading-relaxed text-ink sm:text-base"><span className="font-bold text-clay" aria-hidden="true">✓</span><span>{feature}</span></li>)}
               </ul>
+              {service.closing && <p className="mb-6 text-base font-semibold leading-relaxed text-forest">{service.closing}</p>}
               <a className="mt-auto inline-flex min-h-12 items-center justify-center gap-3 self-start rounded-full bg-clay px-5 py-3 text-sm font-bold text-white transition hover:bg-forest focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-clay" href={`https://wa.me/31614314687?text=${encodeURIComponent(service.message)}`} target="_blank" rel="noreferrer">{service.action} <span aria-hidden="true">↗</span></a>
             </div>
           </article>

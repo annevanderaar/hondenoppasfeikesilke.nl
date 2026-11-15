@@ -67,7 +67,7 @@
     "services": [
       {
         "category": "HONDENOPVANG",
-        "title": "Honden-dagopvang",
+        "title": "Honden-dagopvang 🐾",
         "description": "Lekker chillen, spelen en ontspannen wanneer jij aan het werk bent. Met fijne wandelingen, knuffels en een eigen rustplek.",
         "detail": "07:00–22:00",
         "meta": "Flexibele tijden",
@@ -75,7 +75,7 @@
       },
       {
         "category": "HONDENOPVANG",
-        "title": "Honden-logeren",
+        "title": "Honden-logeren 🐾",
         "description": "Een paar nachtjes of een complete vakantie logeren in huiselijke sfeer. Jouw hond draait gewoon mee met ons gezin.",
         "detail": "Inclusief nachttoezicht",
         "meta": "Huiselijk",
@@ -83,7 +83,7 @@
       },
       {
         "category": "UITLAATSERVICE",
-        "title": "Hondenuitlaatservice",
+        "title": "Hondenuitlaatservice 🐾",
         "description": "Stevige en veilige wandelingen in en rondom Dokkum. Na afloop sturen we een foto of filmpje, zodat je ziet hoe het ging.",
         "detail": "Inclusief update",
         "meta": "Dokkum & regio",
@@ -99,27 +99,27 @@
     "title": "Veelgestelde vragen over onze opvang",
     "intro": "Handige antwoorden over het brengen, halen, de updates en het verblijf in Dokkum.",
     "contactTitle": "Staat jouw vraag er niet tussen?",
-    "contactText": "Stuur ons gerust een berichtje. We denken graag met je mee over de zorg voor jouw dier.",
+    "contactText": "Stuur ons gerust een berichtje. We denken graag met je mee over de zorg voor jouw dier. ❤️",
     "questions": [
       {
         "question": "Hoe blijven we tijdens het verblijf op de hoogte?",
-        "answer": "Wij sturen standaard foto’s en filmpjes via WhatsApp. Zowel tijdens de dagopvang, het logeren als direct na een wandeling van de hondenuitlaatservice zie je hoe jouw dier het heeft."
+        "answer": "Wij sturen standaard foto’s en filmpjes via WhatsApp. Zowel tijdens de dagopvang, het logeren als direct na een wandeling van de hondenuitlaatservice zie je hoe jouw dier het heeft. ❤️"
       },
       {
         "question": "Wat zijn de openingstijden voor brengen en ophalen?",
-        "answer": "Wij zijn geopend van maandag tot en met zondag tussen 07:00 en 22:00 uur. Breng- en haaltijden stemmen we van tevoren flexibel en persoonlijk met je af."
+        "answer": "Wij zijn dagelijks geopend van 07:00 tot 22:00 uur. In overleg is het ook mogelijk om je viervoeter eerder te brengen of later op te halen. We denken graag met je mee en stemmen de tijden persoonlijk met je af! ❤️"
       },
       {
         "question": "Verblijven de honden in kennels of in huis?",
-        "answer": "Altijd in huiselijke kring. Onze gasten verblijven bij ons in huis en in de tuin, met eigen kussens, een mand en indien gewenst lekker op de bank voor knuffels en rust."
+        "answer": "Altijd in huiselijke kring. Onze gasten verblijven bij ons in huis en in de tuin, met eigen kussens, een mand en indien gewenst lekker op de bank voor knuffels en rust. ❤️"
       },
       {
         "question": "Kunnen jullie ook op katten passen?",
-        "answer": "Ja, we verzorgen ook kattenoppas aan huis in Dokkum. We bezoeken je katten thuis voor vers voer, water, kattenbakverzorging en natuurlijk knuffeltijd en speelplezier."
+        "answer": "Ja, wij verzorgen ook kattenoppas aan huis in Dokkum en omgeving. Op aanvraag komen we bij je thuis langs om je kat(ten) te voorzien van vers voer en water, de kattenbak schoon te maken en natuurlijk voor wat extra knuffels en speelplezier! 🐱❤️"
       },
       {
         "question": "Is een kennismaking vooraf mogelijk?",
-        "answer": "Neem gerust contact met ons op om een kennismaking te bespreken. Zo kunnen we jouw dier en de gewoontes en wensen rustig leren kennen en samen kijken welke opvang past."
+        "answer": "Neem gerust contact met ons op om een kennismaking te bespreken. Zo kunnen we jouw dier en de gewoontes en wensen rustig leren kennen en samen kijken welke opvang past. ❤️"
       }
     ]
   },
@@ -142,7 +142,7 @@
     "intro": "Van een zachte plek op de bank tot samen op pad. Ontdek de kleine momenten die een verblijf bij ons zo fijn maken.",
     "galleryLabel": "Foto’s van onze gasten",
     "contactTitle": "Ook een fijn plekje voor jouw dier?",
-    "contactText": "Stuur ons gerust een berichtje om kennis te maken of de mogelijkheden te bespreken.",
+    "contactText": "Stuur ons gerust een berichtje om kennis te maken of de mogelijkheden te bespreken. ❤️",
     "items": [
       {
         "file": "kleine-bruine-hond-in-fauteuil",
@@ -272,11 +272,11 @@
     "source": "Review via Google",
     "excerpt": "Fragment van een Google-review",
     "contactTitle": "Ook met een gerust hart op pad?",
-    "contactText": "Maak gerust kennis met ons. We bespreken graag wat jouw dier nodig heeft."
+    "contactText": "Maak gerust kennis met ons. We bespreken graag wat jouw dier nodig heeft. ❤️"
   },
   "approach": {
-    "title": "Waarom baasjes hun dier vol vertrouwen bij ons achterlaten.",
-    "intro": "We weten hoe belangrijk jouw viervoeter is. Daarom zorgen we voor elke gast met respect voor het eigen karakter, veel rustmomenten en persoonlijk contact.",
+    "title": "Waarom baasjes hun dier met een gerust hart bij ons achterlaten",
+    "intro": "We weten hoe bijzonder jouw viervoeter voor je is. Daarom krijgt iedere gast bij ons persoonlijke aandacht, voldoende rust en alle ruimte om zichzelf te zijn. We kijken naar het karakter en de behoeften van ieder dier, zodat ze zich snel thuis voelen. ❤️",
     "promises": [
       {
         "title": "Foto’s en filmpjes via WhatsApp",
@@ -287,8 +287,8 @@
         "text": "Onze gasten verblijven bij ons in huis en in de tuin. Een zachte ligplek, warmte en gezelligheid horen erbij."
       },
       {
-        "title": "Flexibele tijden, van 07:00 tot 22:00",
-        "text": "We zijn zeven dagen per week geopend. Brengen en ophalen stemmen we van tevoren persoonlijk met je af."
+        "title": "Openingstijden",
+        "text": "Wij zijn dagelijks geopend van 07:00 tot 22:00 uur. In overleg is het ook mogelijk om je viervoeter eerder te brengen of later op te halen. We denken graag met je mee en stemmen de tijden persoonlijk met je af!"
       }
     ],
     "sofaAlt": "Een bruine puppy ligt ontspannen op een deken op de bank",
@@ -315,7 +315,7 @@
       }
     ],
     "contactTitle": "Even kennismaken?",
-    "contactText": "Vertel ons gerust over jouw dier en je wensen. We denken graag met je mee over een fijne opvang of wandeling."
+    "contactText": "Vertel ons gerust over jouw dier en je wensen. We denken graag met je mee over een fijne opvang of wandeling. ❤️"
   },
   "care": {
     "title": "De zorg die past bij jouw dier.",
@@ -325,62 +325,69 @@
       {
         "id": "dagopvang",
         "category": "OVERDAG BIJ ONS",
-        "title": "Honden-dagopvang",
-        "description": "Een fijne plek voor je hond wanneer jij werkt of een dag weg bent. Je hond draait mee in huis, met tijd om te spelen, te wandelen en uit te rusten.",
+        "title": "Honden-dagopvang 🐾",
+        "description": "Een gezellig dagje uit voor jouw hond, terwijl jij andere dingen te doen hebt! Bij ons staat een fijne, huiselijke sfeer centraal. Er is volop ruimte om te spelen, lekker te wandelen, aandacht te krijgen en tussendoor heerlijk uit te rusten.",
         "features": [
-          "Huiselijke opvang met een eigen rustplek",
-          "Brengen en halen op afspraak tussen 07:00 en 22:00",
-          "Foto’s en filmpjes via WhatsApp"
+          "Kleinschalige, huiselijke opvang met persoonlijke aandacht",
+          "Brengen en ophalen in overleg, ook buiten onze gebruikelijke tijden",
+          "Regelmatig leuke foto’s en filmpjes via WhatsApp"
         ],
         "alt": "Een zwarte labrador ontspant op de bank",
         "action": "Vraag dagopvang aan",
-        "message": "Hallo! Ik heb interesse in dagopvang voor mijn hond. Kunnen we de mogelijkheden bespreken?"
+        "message": "Hallo! Ik heb interesse in dagopvang voor mijn hond. Kunnen we de mogelijkheden bespreken?",
+        "closing": "Een plekje waar jouw hond zich helemaal thuis mag voelen! ❤️"
       },
       {
         "id": "logeren",
         "category": "EEN NACHTJE OF LANGER",
-        "title": "Honden-logeren",
-        "description": "Een paar nachten weg of op vakantie? Je hond logeert bij ons in huis en is onderdeel van het gezinsleven, met een zachte slaapplek en persoonlijke aandacht.",
+        "title": "Honden-logeren 🐾",
+        "description": "Een nachtje weg of lekker op vakantie? Bij ons mag jouw hond gezellig komen logeren in een fijne, huiselijke omgeving. Je hond draait mee in ons gezin, met volop aandacht, fijne wandelingen en tussendoor alle tijd om heerlijk te ontspannen.",
         "features": [
-          "Overnachten in huiselijke kring",
-          "Inclusief nachttoezicht",
-          "Updates tijdens het verblijf via WhatsApp"
+          "Kleinschalig logeren in huiselijke sfeer met persoonlijke aandacht",
+          "Een zachte slaapplek en toezicht, ook ’s nachts",
+          "Brengen en ophalen in overleg, ook buiten onze gebruikelijke tijden",
+          "Regelmatig leuke foto’s en filmpjes via WhatsApp"
         ],
         "alt": "Een ruwharige teckel rust in een zachte hondenmand",
         "action": "Vraag een logeerplek aan",
-        "message": "Hallo! Ik zoek een logeerplek voor mijn hond. Kunnen we de mogelijkheden en de gewenste periode bespreken?"
+        "message": "Hallo! Ik zoek een logeerplek voor mijn hond. Kunnen we de mogelijkheden en de gewenste periode bespreken?",
+        "closing": "Een vertrouwd logeeradres waar jouw hond zich helemaal thuis mag voelen! ❤️"
       },
       {
         "id": "uitlaten",
         "category": "SAMEN NAAR BUITEN",
-        "title": "Hondenuitlaatservice",
-        "description": "Even geen tijd om zelf te wandelen? We nemen je hond mee voor een fijne wandeling in en rondom Dokkum. We bespreken vooraf wat jouw hond nodig heeft.",
+        "title": "Hondenuitlaatservice 🐾",
+        "description": "Even geen tijd om zelf te wandelen? Wij nemen je hond graag mee voor een heerlijke wandeling in de buitenlucht. Van mooie wandelroutes in en rondom Dokkum tot boswandelingen en een bezoekje aan het hondenspeelstrand. We kijken naar wat bij jouw hond past!",
         "features": [
           "Wandelingen in Dokkum en omgeving",
-          "Persoonlijke afstemming over je hond en de planning",
-          "Na afloop een foto of filmpje via WhatsApp"
+          "Ook boswandelingen en bezoekjes aan hondenspeelstranden",
+          "Persoonlijke afstemming over de behoeften van jouw hond",
+          "Na afloop een leuke foto of filmpje via WhatsApp"
         ],
         "alt": "Twee honden wandelen samen aan de lijn op een zonnige weg",
         "action": "Bespreek een wandeling",
-        "message": "Hallo! Ik heb interesse in de hondenuitlaatservice. Kunnen we bespreken wat mogelijk is voor mijn hond?"
+        "message": "Hallo! Ik heb interesse in de hondenuitlaatservice. Kunnen we bespreken wat mogelijk is voor mijn hond?",
+        "closing": "Lekker naar buiten, snuffelen en genieten! ❤️"
       },
       {
         "id": "kattenoppas",
         "category": "IN HET EIGEN VERTROUWDE HUIS",
-        "title": "Kattenoppas aan huis",
-        "description": "Je kat blijft lekker in de eigen omgeving terwijl jij weg bent. We komen thuis langs in Dokkum voor de dagelijkse verzorging, aandacht en gezelschap.",
+        "title": "Kattenoppas aan huis 🐱",
+        "description": "Gaat u een dagje weg of op vakantie? Wij verzorgen kattenoppas aan huis in Dokkum en omliggende plaatsen. Op aanvraag komen we bij je thuis langs, zodat jouw kat lekker in de vertrouwde eigen omgeving kan blijven.",
         "features": [
           "Vers voer en schoon drinkwater",
           "Verzorging van de kattenbak",
-          "Tijd voor spelen, knuffels en updates"
+          "Tijd voor spelen, knuffels en persoonlijke aandacht",
+          "Leuke updates en foto’s via WhatsApp"
         ],
         "alt": "Twee katten liggen samen op een zachte rode deken",
         "action": "Bespreek kattenoppas",
-        "message": "Hallo! Ik zoek kattenoppas aan huis in Dokkum. Kunnen we de verzorging en de gewenste periode bespreken?"
+        "message": "Hallo! Ik zoek kattenoppas aan huis in Dokkum. Kunnen we de verzorging en de gewenste periode bespreken?",
+        "closing": "Ook buiten Dokkum mogelijk, op aanvraag! ❤️"
       }
     ],
     "helpTitle": "Wat past bij jouw dier?",
-    "helpText": "Tijden, beschikbaarheid en tarieven bespreken we persoonlijk. Vertel ons welke zorg je zoekt en welke periode je in gedachten hebt. Meer weten over de dagelijkse zorg en kennismaking? Lees onze aanpak.",
+    "helpText": "Tijden, beschikbaarheid en tarieven bespreken we persoonlijk. Vertel ons welke zorg je zoekt en welke periode je in gedachten hebt. Meer weten over de dagelijkse zorg en kennismaking? Lees onze aanpak. ❤️",
     "approachLink": "Bekijk onze aanpak",
     "questionsText": "Praktische vragen over de opvang? Bekijk de"
   },
@@ -396,7 +403,9 @@
     "whatsappAction": "Open WhatsApp",
     "detailsTitle": "Contact & locatie",
     "area": "Voor dierenopvang en wandelingen in Dokkum en omgeving.",
-    "appointment": "Brengen, ophalen en kennismaken stemmen we vooraf persoonlijk met je af.",
-    "questionsText": "Alvast meer weten? Bekijk de"
+    "appointment": "Brengen en ophalen is mogelijk binnen deze tijden. Liever eerder brengen of later ophalen? In overleg is er vaak meer mogelijk. We stemmen de tijden altijd persoonlijk met je af! ❤️",
+    "questionsText": "Alvast meer weten? Bekijk de",
+    "hoursTitle": "Openingstijden & afspraken",
+    "hours": "Maandag t/m zondag · 07:00–22:00 uur"
   }
 }
